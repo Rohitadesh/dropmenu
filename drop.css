@@ -14,12 +14,11 @@
     width: 30%;
     border: 1px solid black;
     border-radius: 25px;
-    background-color: rgb(122, 221, 188);
+    background-color: #8294C4;
     -webkit-box-shadow: 9px -6px 31px 7px rgba(0,0,0,0.75);
     -moz-box-shadow: 9px- -6px 31px 7px rgba(0,0,0,0.75);
     box-shadow: 9px -6px 31px 7px rgba(0,0,0,0.75);
 }
-
 .flex-container{
     display: flex;
     flex-direction: row;
